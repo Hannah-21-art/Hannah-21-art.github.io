@@ -23,7 +23,7 @@ repository               : "Hannah-21-art/Hannah-21-art.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "bio.png"
+  avatar           : "bio.jpg"
   name             : "Yi Han"
   pronouns         : # example: "she/her"  
   bio              : "PhD student in Economics"
